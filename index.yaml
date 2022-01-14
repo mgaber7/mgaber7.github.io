@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-01-14T11:15:08.680902701Z"
+    dependencies:
+    - name: pages-api
+      repository: https://mgaber7.github.io/
+      version: 1.x.x
+    - name: mysql
+      repository: https://mgaber7.github.io/
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: 5350c7ba20a5a60f1870303fd13c3553edeefbdf6b7d40b1b9f36a40c3739665
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-14T11:15:08.67781476Z"
